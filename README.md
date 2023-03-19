@@ -1,4 +1,4 @@
-# Assignment4
+# Assignment 4
 CS II Assignment 4: Simple Java GUI Programs
 
 Problem 1: Tic-Tac-Toe Game  
